@@ -178,6 +178,7 @@ namespace gb_prTask1
 
     public class MyUtilityMethods
     {
+
         public static void Print(string text, int centerX, int centerY)
         {
             int centX = centerX;
@@ -185,5 +186,6 @@ namespace gb_prTask1
             Console.SetCursorPosition(centX, centY);
             Console.WriteLine(text);
         }
+
     }
 }
