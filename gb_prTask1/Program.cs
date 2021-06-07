@@ -130,8 +130,6 @@ namespace gb_prTask1
 
         }
 
-
-
         public static void GetPersonInfo()
         {
             Console.WriteLine("Напишите свое имя: ");
@@ -159,14 +157,10 @@ namespace gb_prTask1
             return str;
         }
 
-
-
-
         public static double CountBMI(int weight, int height)
         {
             return weight / (Math.Pow(height, 2));
         }
-
 
         public static double CountDistance(double x1, double x2, double y1, double y2)
         {
