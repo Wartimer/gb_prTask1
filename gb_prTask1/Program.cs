@@ -18,7 +18,7 @@ namespace gb_prTask1
                       y1 = 3.4,
                       y2 = 4.2;
 
-        static void Main(string[] args)
+        static void Mains(string[] args)
         {
             #region Рыжков Д.И. Задание №1
             //1. Написать программу «Анкета». Последовательно задаются вопросы(имя, фамилия, возраст, рост, вес). 
@@ -31,15 +31,15 @@ namespace gb_prTask1
             Console.WriteLine($"Ваше имя: {name}\n" +
                               $"Ваша фамилия: {surname}\n" +
                               $"Ваш возраст: {age}\n" +
-                              $"Ваш рост: {height}\n" +
-                              $"Ваш вес: {weight} \n");
+                              $"Ваш рост: {height} см\n" +
+                              $"Ваш вес: {weight} кг\n");
 
             Console.WriteLine("Форматированный вывод: \n");
             Console.WriteLine("Ваше имя: {0}\n" +
                               "Ваша фамилия: {1}\n" +
                               "Ваш возраст: {2}\n" +
-                              "Ваш рост: {3}\n" +
-                              "Ваш вес: {4}", name, surname, age, height, weight);
+                              "Ваш рост: {3} см\n" +
+                              "Ваш вес: {4} кг", name, surname, age, height, weight);
             Console.ReadLine();
             Console.Clear();
             #endregion
@@ -75,10 +75,11 @@ namespace gb_prTask1
             Console.WriteLine("Значения переменных до обмена значениями:");
             Console.WriteLine("a = {0}\n" +
                               "b = {1}\n", a, b);
-            int temp;
-            temp = b;
-            b = a;
-            a = temp;
+
+                                int temp;
+                                temp = b;
+                                b = a;
+                                a = temp;
 
             Console.WriteLine("Результат обмена значениями с использованием 3-й переменной:");
             Console.WriteLine("a = {0}\n" +
@@ -92,9 +93,10 @@ namespace gb_prTask1
             Console.WriteLine("Значения переменных до обмена значениями:");
             Console.WriteLine("a = {0}\n" +
                               "b = {1}\n", a, b);
-            a = a ^ b;
-            b = a ^ b;
-            a = a ^ b;
+
+                                a = a ^ b;
+                                b = a ^ b;
+                                a = a ^ b;
 
             Console.WriteLine("Результат обмена значениями без использования 3-й переменной:");
             Console.WriteLine("a = {0}\n" +
@@ -119,7 +121,7 @@ namespace gb_prTask1
             Console.ReadLine();
             Console.Clear();
 
-            // Печать с использованием  собственного метода.
+            // Печать с использованием собственного метода.
             string text2 = "";
             text2 = GetPersonInfo2();
             MyUtilityMethods.Print(text2, centerX, centerY);
