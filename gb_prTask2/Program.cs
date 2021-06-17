@@ -9,7 +9,7 @@ namespace gb_prTask2
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Mains(string[] args)
         {
 
             //Задача 1.
