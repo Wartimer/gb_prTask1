@@ -1,0 +1,13 @@
+C:\Coding\MyRepositories\gb_prTask1\gb_prTask1\gb_prTask4\bin\Debug\gb_prTask4.exe.config
+C:\Coding\MyRepositories\gb_prTask1\gb_prTask1\gb_prTask4\bin\Debug\gb_prTask4.exe
+C:\Coding\MyRepositories\gb_prTask1\gb_prTask1\gb_prTask4\bin\Debug\gb_prTask4.pdb
+C:\Coding\MyRepositories\gb_prTask1\gb_prTask1\gb_prTask4\obj\Debug\gb_prTask4.csprojAssemblyReference.cache
+C:\Coding\MyRepositories\gb_prTask1\gb_prTask1\gb_prTask4\obj\Debug\gb_prTask4.csproj.CoreCompileInputs.cache
+C:\Coding\MyRepositories\gb_prTask1\gb_prTask1\gb_prTask4\obj\Debug\gb_prTask4.exe
+C:\Coding\MyRepositories\gb_prTask1\gb_prTask1\gb_prTask4\obj\Debug\gb_prTask4.pdb
+C:\Coding\MyRepositories\gb_prTask1\gb_prTask1\gb_prTask4\bin\Debug\ArrayList.txt
+C:\Coding\MyRepositories\gb_prTask1\gb_prTask1\gb_prTask4\obj\Debug\gb_prTask4.csproj.CopyComplete
+C:\Coding\MyRepositories\gb_prTask1\gb_prTask1\gb_prTask4\bin\Debug\LoginInfo.txt
+C:\Coding\MyRepositories\gb_prTask1\gb_prTask1\gb_prTask4\bin\Debug\TwoDimensionalArray.dll
+C:\Coding\MyRepositories\gb_prTask1\gb_prTask1\gb_prTask4\bin\Debug\TwoDimensionalArray.pdb
+C:\Coding\MyRepositories\gb_prTask1\gb_prTask1\gb_prTask4\bin\Debug\TwoDimDemoData.txt
