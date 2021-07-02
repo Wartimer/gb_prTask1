@@ -1,0 +1,5 @@
+C:\Coding\MyRepositories\gb_prTask1\gb_prTask1\TwoDimensionalArray\bin\Debug\TwoDimensionalArray.dll
+C:\Coding\MyRepositories\gb_prTask1\gb_prTask1\TwoDimensionalArray\bin\Debug\TwoDimensionalArray.pdb
+C:\Coding\MyRepositories\gb_prTask1\gb_prTask1\TwoDimensionalArray\obj\Debug\TwoDimensionalArray.csproj.CoreCompileInputs.cache
+C:\Coding\MyRepositories\gb_prTask1\gb_prTask1\TwoDimensionalArray\obj\Debug\TwoDimensionalArray.dll
+C:\Coding\MyRepositories\gb_prTask1\gb_prTask1\TwoDimensionalArray\obj\Debug\TwoDimensionalArray.pdb
