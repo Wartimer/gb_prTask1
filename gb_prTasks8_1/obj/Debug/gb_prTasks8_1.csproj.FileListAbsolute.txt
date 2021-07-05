@@ -1,0 +1,7 @@
+C:\Coding\MyRepositories\gb_prTask1\gb_prTask1\gb_prTasks8_1\bin\Debug\gb_prTasks8_1.exe.config
+C:\Coding\MyRepositories\gb_prTask1\gb_prTask1\gb_prTasks8_1\bin\Debug\gb_prTasks8_1.exe
+C:\Coding\MyRepositories\gb_prTask1\gb_prTask1\gb_prTasks8_1\bin\Debug\gb_prTasks8_1.pdb
+C:\Coding\MyRepositories\gb_prTask1\gb_prTask1\gb_prTasks8_1\obj\Debug\gb_prTasks8_1.csprojAssemblyReference.cache
+C:\Coding\MyRepositories\gb_prTask1\gb_prTask1\gb_prTasks8_1\obj\Debug\gb_prTasks8_1.csproj.CoreCompileInputs.cache
+C:\Coding\MyRepositories\gb_prTask1\gb_prTask1\gb_prTasks8_1\obj\Debug\gb_prTasks8_1.exe
+C:\Coding\MyRepositories\gb_prTask1\gb_prTask1\gb_prTasks8_1\obj\Debug\gb_prTasks8_1.pdb
