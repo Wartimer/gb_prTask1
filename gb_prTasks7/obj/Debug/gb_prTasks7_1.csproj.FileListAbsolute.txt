@@ -1,0 +1,10 @@
+C:\Coding\MyRepositories\gb_prTask1\gb_prTask1\gb_prTasks7\bin\Debug\gb_prTasks7.exe.config
+C:\Coding\MyRepositories\gb_prTask1\gb_prTask1\gb_prTasks7\bin\Debug\gb_prTasks7.exe
+C:\Coding\MyRepositories\gb_prTask1\gb_prTask1\gb_prTasks7\bin\Debug\gb_prTasks7.pdb
+C:\Coding\MyRepositories\gb_prTask1\gb_prTask1\gb_prTasks7\obj\Debug\gb_prTasks7.Form1.resources
+C:\Coding\MyRepositories\gb_prTask1\gb_prTask1\gb_prTasks7\obj\Debug\gb_prTasks7.Properties.Resources.resources
+C:\Coding\MyRepositories\gb_prTask1\gb_prTask1\gb_prTasks7\obj\Debug\gb_prTasks7_1.csproj.GenerateResource.cache
+C:\Coding\MyRepositories\gb_prTask1\gb_prTask1\gb_prTasks7\obj\Debug\gb_prTasks7_1.csproj.CoreCompileInputs.cache
+C:\Coding\MyRepositories\gb_prTask1\gb_prTask1\gb_prTasks7\obj\Debug\gb_prTasks7.exe
+C:\Coding\MyRepositories\gb_prTask1\gb_prTask1\gb_prTasks7\obj\Debug\gb_prTasks7.pdb
+C:\Coding\MyRepositories\gb_prTask1\gb_prTask1\gb_prTasks7\obj\Debug\gb_prTasks7_1.csprojAssemblyReference.cache

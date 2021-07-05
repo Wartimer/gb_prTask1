@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<ArrayOfRecipe xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Recipe>
+    <Title>a</Title>
+    <CookingTime>3</CookingTime>
+    <Rating>2</Rating>
+    <Ingredients>
+      <string>a</string>
+      <string>a</string>
+      <string>a</string>
+      <string>a</string>
+    </Ingredients>
+  </Recipe>
+  <Recipe>
+    <Title>o</Title>
+    <CookingTime>7</CookingTime>
+    <Rating>3</Rating>
+    <Ingredients>
+      <string>o</string>
+      <string>o</string>
+      <string>o</string>
+      <string>o</string>
+    </Ingredients>
+  </Recipe>
+  <Recipe>
+    <Title>j</Title>
+    <CookingTime>1</CookingTime>
+    <Rating>3</Rating>
+    <Ingredients>
+      <string>j</string>
+      <string>j</string>
+      <string>j</string>
+      <string>j</string>
+    </Ingredients>
+  </Recipe>
+</ArrayOfRecipe>
